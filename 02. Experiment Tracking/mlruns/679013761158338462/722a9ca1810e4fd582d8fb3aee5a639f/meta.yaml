@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/679013761158338462/722a9ca1810e4fd582d8fb3aee5a639f/artifacts
+end_time: 1748074655950
+entry_point_name: ''
+experiment_id: '679013761158338462'
+lifecycle_stage: active
+run_id: 722a9ca1810e4fd582d8fb3aee5a639f
+run_name: colorful-moose-813
+run_uuid: 722a9ca1810e4fd582d8fb3aee5a639f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748074646233
+status: 3
+tags: []
+user_id: HP

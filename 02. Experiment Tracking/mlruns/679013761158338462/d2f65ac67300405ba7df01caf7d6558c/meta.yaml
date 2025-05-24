@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/679013761158338462/d2f65ac67300405ba7df01caf7d6558c/artifacts
+end_time: 1748074592653
+entry_point_name: ''
+experiment_id: '679013761158338462'
+lifecycle_stage: active
+run_id: d2f65ac67300405ba7df01caf7d6558c
+run_name: wistful-lynx-233
+run_uuid: d2f65ac67300405ba7df01caf7d6558c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748074578595
+status: 3
+tags: []
+user_id: HP

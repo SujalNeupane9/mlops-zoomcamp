@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/679013761158338462/2e9e395ad920429ca0f7dcadbe257687/artifacts
+end_time: 1748074611609
+entry_point_name: ''
+experiment_id: '679013761158338462'
+lifecycle_stage: active
+run_id: 2e9e395ad920429ca0f7dcadbe257687
+run_name: likeable-goose-972
+run_uuid: 2e9e395ad920429ca0f7dcadbe257687
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748074605597
+status: 3
+tags: []
+user_id: HP

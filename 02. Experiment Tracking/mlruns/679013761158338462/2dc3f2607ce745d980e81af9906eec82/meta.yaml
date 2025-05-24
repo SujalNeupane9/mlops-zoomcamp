@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/679013761158338462/2dc3f2607ce745d980e81af9906eec82/artifacts
+end_time: 1748074593486
+entry_point_name: ''
+experiment_id: '679013761158338462'
+lifecycle_stage: active
+run_id: 2dc3f2607ce745d980e81af9906eec82
+run_name: chill-turtle-325
+run_uuid: 2dc3f2607ce745d980e81af9906eec82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748074592736
+status: 3
+tags: []
+user_id: HP

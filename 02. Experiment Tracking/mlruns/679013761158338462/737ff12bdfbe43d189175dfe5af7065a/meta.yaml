@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/679013761158338462/737ff12bdfbe43d189175dfe5af7065a/artifacts
+end_time: 1748074683255
+entry_point_name: ''
+experiment_id: '679013761158338462'
+lifecycle_stage: active
+run_id: 737ff12bdfbe43d189175dfe5af7065a
+run_name: luminous-stoat-569
+run_uuid: 737ff12bdfbe43d189175dfe5af7065a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748074677595
+status: 3
+tags: []
+user_id: HP

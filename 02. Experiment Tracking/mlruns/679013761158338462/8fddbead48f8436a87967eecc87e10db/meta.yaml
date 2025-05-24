@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/679013761158338462/8fddbead48f8436a87967eecc87e10db/artifacts
+end_time: 1748074605517
+entry_point_name: ''
+experiment_id: '679013761158338462'
+lifecycle_stage: active
+run_id: 8fddbead48f8436a87967eecc87e10db
+run_name: upset-mink-480
+run_uuid: 8fddbead48f8436a87967eecc87e10db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748074594692
+status: 3
+tags: []
+user_id: HP

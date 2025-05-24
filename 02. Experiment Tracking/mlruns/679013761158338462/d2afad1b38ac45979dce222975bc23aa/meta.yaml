@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/679013761158338462/d2afad1b38ac45979dce222975bc23aa/artifacts
+end_time: 1748074646169
+entry_point_name: ''
+experiment_id: '679013761158338462'
+lifecycle_stage: active
+run_id: d2afad1b38ac45979dce222975bc23aa
+run_name: lyrical-koi-481
+run_uuid: d2afad1b38ac45979dce222975bc23aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748074644421
+status: 3
+tags: []
+user_id: HP
