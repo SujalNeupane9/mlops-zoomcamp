@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/499802187172406949
+creation_time: 1749359615856
+experiment_id: '499802187172406949'
+last_update_time: 1749359615856
+lifecycle_stage: active
+name: taxi-duration-prediction
